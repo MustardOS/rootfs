@@ -1,0 +1,4 @@
+#!/bin/sh
+
+/opt/muos/script/system/startup.sh &
+
