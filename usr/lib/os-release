@@ -1,0 +1,5 @@
+NAME=Buildroot
+VERSION=-g902e4ab60e-dirty
+ID=buildroot
+VERSION_ID=2024.02.1
+PRETTY_NAME="Buildroot 2024.02.1"

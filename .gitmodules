@@ -1,0 +1,3 @@
+[submodule "opt/muos"]
+	path = opt/muos
+	url = https://github.com/MustardOS/internal
